@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon - a faux Amazon storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinson-ridenour/bamazon.git"
+  },
+  "author": "Vinse Ridenour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinson-ridenour/bamazon/issues"
+  },
+  "homepage": "https://github.com/vinson-ridenour/bamazon#readme",
+  "dependencies": {
+    "easy-table": "^1.1.0",
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
+}
