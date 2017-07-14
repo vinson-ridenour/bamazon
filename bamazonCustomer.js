@@ -3,6 +3,7 @@
 let mysql = require('mysql');
 let inquirer = require('inquirer');
 let EasyTable = require('easy-table');
+
 let allProductsTable = new EasyTable;
 
 let con = mysql.createConnection({
