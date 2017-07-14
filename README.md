@@ -1,8 +1,7 @@
 
 See my video of how it works here!
 
-
-
+https://drive.google.com/open?id=0B_bLO8FfccURbkdEcW45QnIteEE
 
 # BAMazon
 
@@ -12,6 +11,6 @@ See my video of how it works here!
 
 2. User types the quantity of the item desired
 
-3. If there's enough quantity in stock, the program will calculate the total price for the item and quantity selected
+3. If there's enough quantity in stock, the program will calculate the total price for their order
 
 4. If not enough quantity is in stock, the program will let the user know how many units are on hand and to choose another ID and quantity
