@@ -1,11 +1,9 @@
 
-See my video of how it works here!
+## BAMazon is a server-side program that will show a list of products available to the user for them to purchase.
+
+See my video of how it works here - thanks for watching! :)
 
 https://drive.google.com/open?id=0B_bLO8FfccURbkdEcW45QnIteEE
-
-# BAMazon
-
-## BAMazon is a program that will show a list of products available to the user for them to purchase.
 
 1. User types the ID of item from the list
 
